@@ -21,7 +21,7 @@ The Illustrator file consists of five layers, one for each element of the card. 
 
 ## Printing
 
-Because we're using a vector file, we're able to scale this to any size we want. I went with 12x18". This makes it larger enough to be impressive but it's not quite as big as the version in the Vardy photo. I had it printed on 3/16" Foamcore which makes it nice and sturdy while still being able to be cut.
+Because we're using a vector file, we're able to scale this to any size we want. I went with 12x18". This makes it large enough to be impressive but it's not quite as big as the version in the Vardy photo. I had it printed on 3/16" Foamcore which makes it nice and sturdy while still being able to be cut.
 
 ## The Hard Part - Cutting
 
